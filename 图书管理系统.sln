@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图书管理系统", "图书管理系统\图书管理系统.vcxproj", "{1476447B-AA2E-4737-8E29-F8621FAC3C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1476447B-AA2E-4737-8E29-F8621FAC3C5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1476447B-AA2E-4737-8E29-F8621FAC3C5B}.Debug|Win32.Build.0 = Debug|Win32
+		{1476447B-AA2E-4737-8E29-F8621FAC3C5B}.Release|Win32.ActiveCfg = Release|Win32
+		{1476447B-AA2E-4737-8E29-F8621FAC3C5B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
